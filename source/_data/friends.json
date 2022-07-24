@@ -1,0 +1,37 @@
+[{
+    "avatar": "https://www.rancher.cn/imgs/logo-head.png",
+    "name": "Rancher",
+    "introduction": "企业级Kubernetes管理平台",
+    "url": "https://rancher.kinson.fun/",
+    "title": "点击进入"
+}, {
+    "avatar": "https://about.gitlab.com/images/devops-tools/gitlab-logo.svg",
+    "name": "Gitlab",
+    "introduction": "项目管理和代码托管平台",
+    "url": "https://gitlab.kinson.fun/",
+    "title": "点击进入"
+}, {
+    "avatar": "https://about.gitlab.com/images/devops-tools/jfrog-logo.png",
+    "name": "JFrog",
+    "introduction": "行标级通用制品库管理平台",
+    "url": "https://jfrog.kinson.fun",
+    "title": "点击进入"
+}, {
+    "avatar": "https://about.gitlab.com/images/devops-tools/jenkins-logo.svg",
+    "name": "Jenkins",
+    "introduction": "可扩展的持续集成引擎",
+    "url": "https://jenkins.kinson.fun",
+    "title": "点击进入"
+}, {
+    "avatar": "https://grafana.com/static/img/menu/grafana.svg",
+    "name": "Grafana",
+    "introduction": "开源的度量仪表盘",
+    "url": "https://grafana.kinson.fun",
+    "title": "点击进入"
+}, {
+    "avatar": "https://avatars.githubusercontent.com/u/19211038?s=200&v=4",
+    "name": "NextCloud",
+    "introduction": "一款开源的私有云盘套件",
+    "url": "https://nextcloud.kinson.fun",
+    "title": "点击进入"
+}]
